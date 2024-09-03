@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 -  Open VM and onfigure IIS 
 - Item 3
 - Item 4
-- Item 5
+
 
 <h2>Installation Steps</h2>
 
