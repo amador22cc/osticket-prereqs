@@ -64,4 +64,4 @@ To install IIS in Windows, follow these steps:
 <br />
 <img 
 
-tTo open OSTicket, return to PHP. On the left-hand side, click the drop-down bar label OSTicket, then open Bowers 80*. Afterwares login with your selected username and password. which will allow you access to an admission page on OSTicket.
+To open OSTicket, return to PHP. On the left-hand side, click the drop-down bar label OSTicket, then open Bowers 80*. Afterwares login with your selected username and password. which will allow you access to an admission page on OSTicket.
