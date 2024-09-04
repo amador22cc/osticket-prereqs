@@ -47,8 +47,6 @@ To log in to Microsoft Remote Desktop, add the VM's IP address and navigate to t
 <br />
 <img width="1470" alt="Screenshot 2024-09-03 at 8 02 52 PM 2" src="https://github.com/user-attachments/assets/0494c697-8b89-4e2b-be92-cda3c1201be8">
 
-<p>
-<img> [Uploading Untitled 2.pdf…]
 
 To install IIS in Windows, follow these steps:
 
@@ -64,3 +62,6 @@ To install IIS in Windows, follow these steps:
 10. Install osTicket in the browser.
 </p>
 <br />
+<img 
+
+tTo open OSTicket, return to PHP. On the left-hand side, click the drop-down bar label OSTicket, then open Bowers 80*. Afterwares login with your selected username and password. which will allow you access to an admission page on OSTicket.
