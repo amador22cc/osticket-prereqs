@@ -38,7 +38,8 @@ To create a resource group in Windows Azure, click the Resources Groups icon, na
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1470" alt="Screenshot 2024-09-03 at 8 05 26 PM copy" src="https://github.com/user-attachments/assets/c487e81a-407c-418d-b086-347443a5a9d5">
+
 </p>
 <p>
 To log in to Microsoft Remote Desktop, add the VM's IP address and navigate to the control panel. Change settings, click on programs, and enable CGI and HTTP common features.
