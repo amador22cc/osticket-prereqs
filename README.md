@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="[Untitled 2.pdf](https://github.com/user-attachments/files/16860411/Untitled.2.pdf)>
+<img ![Uploading Screenshot 2024-09-03 at 8.02.52 PM.png…]()
 
 </p>
 <p>
