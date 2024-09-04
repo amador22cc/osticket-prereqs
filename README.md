@@ -18,9 +18,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 -  Crate resoures group and virual machines
--  Open VM and onfigure IIS 
-- Item 3
-- Item 4
+-  Open VM and configure IIS 
+-  PHP 
+-  OSTicket installion and configure
 
 
 <h2>Installation Steps</h2>
