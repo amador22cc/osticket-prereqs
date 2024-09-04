@@ -42,10 +42,7 @@ To log in to Microsoft Remote Desktop, add the VM's IP address and navigate to t
 <br />
 
 <p>
-<img> ![Uploading Screenshot 2024-09-03 at 8.02.52 PM.png…]()
-
-</p>
-<p>
+<img> </p><p>
 To install IIS in Windows, follow these steps:
 
 1. Download and install PHP Manager for IIS, Rewrite Module, and C:\PHP.
