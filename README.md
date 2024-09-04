@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 -  Crate resoures group and virual machines
 -  Open VM and configure IIS 
--  PHP 
+-  configure and ajdust protories of php
 -  OSTicket installion and configure
 
 
@@ -42,7 +42,8 @@ To log in to Microsoft Remote Desktop, add the VM's IP address and navigate to t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img ![Uploading Screenshot 2024-09-03 at 8.02.52 PM.png…]()
+
 </p>
 <p>
 To install IIS in Windows, follow these steps:
