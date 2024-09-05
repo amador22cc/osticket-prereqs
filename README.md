@@ -47,11 +47,11 @@ World Wide Web Services -> Application Development Features -> [X] CGI [X] Commo
 <img <img width="1470" alt="Screenshot 2024-09-03 at 8 05 26 PM copy" src="https://github.com/user-attachments/assets/c487e81a-407c-418d-b086-347443a5a9d5">
 
 </p>* To ensure IIS is enabled, open the internet browser and enter 127.0.0.1. You should get this page. 
-<p>
+<p> copy and paste https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 into your browser 
 
 </p>5) Crate a floder in c: and name it PHP.
 
-6) Download PHP 7.3.8 and unzip the contents into C:\PHP. Exact the fold when finished downloading 
+</P>6) Download PHP 7.3.8 and unzip the contents into C:\PHP. Exact the fold when finished downloading 
 
 
 <img width="1252" alt="Screenshot 2024-09-04 at 6 33 21 PM" src="https://github.com/user-attachments/assets/ae27d156-2055-4922-b792-dc5a58b4219d">
@@ -61,10 +61,12 @@ World Wide Web Services -> Application Development Features -> [X] CGI [X] Commo
 
 8)register PHP from within IIS.uthe the PHP folder you crated as the file to load after reload the the sever
 
+<img width="1252" alt="Screenshot 2024-09-04 at 7 22 29 PM" src="https://github.com/user-attachments/assets/4da0b8ef-aa2d-4751-8b30-5455f48cbbed">
+
+9) Install VC_redist.x86.exe and MySQL 5.5.62.
 
 
-
-3. Install VC_redist.x86.exe and MySQL 5.5.62.
+    
 4. Open IIS as an Admin, register PHP from within IIS, and reload the server.
 5. Install osTicket v1.15.8 and reload IIS.
 6. Enable or disable extensions like php_imap.dll, php_intl.dll, and php_opcache.dll.
