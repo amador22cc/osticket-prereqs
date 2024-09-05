@@ -49,16 +49,19 @@ World Wide Web Services -> Application Development Features -> [X] CGI [X] Commo
 </p>* To ensure IIS is enabled, open the internet browser and enter 127.0.0.1. You should get this page. 
 <p>
 
-</p>
-<br />
-<img width="1470" alt="Screenshot 2024-09-03 at 8 02 52 PM 2" src="https://github.com/user-attachments/assets/0494c697-8b89-4e2b-be92-cda3c1201be8">
-
-
-
-
-5) Crate a floder in c: and name it PHP.
+</p>5) Crate a floder in c: and name it PHP.
 
 6) Download PHP 7.3.8 and unzip the contents into C:\PHP. Exact the fold when finished downloading 
+
+
+<img width="1252" alt="Screenshot 2024-09-04 at 6 33 21 PM" src="https://github.com/user-attachments/assets/ae27d156-2055-4922-b792-dc5a58b4219d">
+
+7) Open IIS as an Admin,
+<img width="1470" alt="Screenshot 2024-09-03 at 8 02 52 PM 2" src="https://github.com/user-attachments/assets/0494c697-8b89-4e2b-be92-cda3c1201be8">
+
+8)register PHP from within IIS.uthe the PHP folder you crated as the file to load after reload the the sever
+
+
 
 
 3. Install VC_redist.x86.exe and MySQL 5.5.62.
