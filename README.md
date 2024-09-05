@@ -73,6 +73,10 @@ World Wide Web Services -> Application Development Features -> [X] CGI [X] Commo
 reload IIS
 
 </p>11)on IIS go to site click on site and go down to OSTick on the right side the screen look for “Browse *:80” and open it 
+
+<img width="1470" alt="Screenshot 2024-09-03 at 8 02 52 PM" src="https://github.com/user-attachments/assets/1b9530a6-21a6-4f2b-8c6d-5a45320a4a4f">
+
+</p> some extions will not be enable on OSTicket browser
 7. Refresh the osTicket site and assign permissions.
 8. Set up osTicket in the browser and name the helpdesk.
 9. Download and install HeidiSQL and create a new session.
