@@ -31,12 +31,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 1)Open Windows Azure and create a virtual machine that we will set up with Windows 10 Pro, 22H2. with DS1 v2 with 16 GB of memory.
 2)Once your virtual machine has been created, locate the pulbic IP address and copy it. 
 <p>
-<img !
-<img width="1340" alt="Screenshot 2024-09-02 at 8 21 26 PM" src="https://github.com/user-attachments/assets/052d05f5-a8b7-49af-a428-3edcea94410a">
+<img width="1710" alt="Screenshot 2024-09-03 at 9 43 16 PM" src="https://github.com/user-attachments/assets/d4c3a101-24d2-4066-9001-abb1689ab8c8">
 
-
-
-</p>
+</p>3) Open Microsoft Remote Desktop and add a PC. Copy the IP address from your virtual machine. and login with your username and password.
 <p>
 To create a resource group in Windows Azure, click the Resources Groups icon, name the group "RG", place it in WST 3, and crate the group, then name the virtual machine "VM".
 </p>
