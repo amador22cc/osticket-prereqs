@@ -17,14 +17,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
--  Crate resoures group and virual machines
--  Open VM and configure IIS 
--  configure and ajdust protories of php
--  OSTicket installion and configure
+-  Windowd Azuer
+-  Micrsoft Remmote Desktop
+-  PHP Manger
+-  VC Redist
+-  MySQL
+-  Heidi SQL
+-  osTicket
+-  Download links https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
-
+-  
 <h2>Installation Steps</h2>
-
+1)Open Windows Azure and create a virtual machine that we will set up with Windows 10 Pro, 22H2. with DS1 v2 with 16 GB of memory.
+2)Once your virtual machine has been created, locate the pulbic IP address and copy it. 
 <p>
 <img !
 <img width="1340" alt="Screenshot 2024-09-02 at 8 21 26 PM" src="https://github.com/user-attachments/assets/052d05f5-a8b7-49af-a428-3edcea94410a">
