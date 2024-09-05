@@ -88,10 +88,19 @@ You want to enable PHP_imap.dll, PHP_intl.dll, and PHP_opcache.dll.
 </p>13) Once you have enabled the extensions, return to your inetpub folder to rename C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php. You will rename ost-sampleconfig.php to ost-config.php.
 
 <img width="1252" alt="Screenshot 2024-09-04 at 7 05 51 PM" src="https://github.com/user-attachments/assets/b895d171-becf-4c7a-8025-a0f5f31e4b58">
+
 Now that we have renamed the files, right click on the file and go to properties. From there click security, click on advance, and disable the inheritance. We will select Remove all inherited permissions from this object.
 
-8. Set up osTicket in the browser and name the helpdesk.
-9. Download and install HeidiSQL and create a new session.
+<img width="1252" alt="Screenshot 2024-09-04 at 7 25 54 PM" src="https://github.com/user-attachments/assets/6b09fe9d-5042-4920-81c6-97aa648ca9b6">
+
+to send new permissions 
+
+Click added, at the top, select a principal, type everyone in the box, check the box labeled full control, click okay, and apply. 
+
+</p>14) Download and install HeidiSQL from the Installation Files. 
+
+Download and install HeidiSQL from the installation files. Create a new session. Your username will be root, and the password is password1.
+
 10. Install osTicket in the browser.
 </p>
 <br />
