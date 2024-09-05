@@ -35,25 +35,32 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>3) Open Microsoft Remote Desktop and add a PC. Copy the IP address from your virtual machine. and login with your username and password.
 <p>
-To create a resource group in Windows Azure, click the Resources Groups icon, name the group "RG", place it in WST 3, and crate the group, then name the virtual machine "VM".
-</p>
-<br />
+<img width="711" alt="Screenshot 2024-09-03 at 9 43 35 PM" src="https://github.com/user-attachments/assets/193e82b5-6775-4dbf-b6d3-9776c4bf8991">
 
+<br />
+4) Once PC is connected, open the control panel. form control panel open programs to get to programs and features. Look for the run window features on and off.
+
+You will want to install / enable IIS in Windows with CGI and Common HTTP Features
+
+World Wide Web Services -> Application Development Features -> [X] CGI [X] Common HTTP Features
 <p>
 <img <img width="1470" alt="Screenshot 2024-09-03 at 8 05 26 PM copy" src="https://github.com/user-attachments/assets/c487e81a-407c-418d-b086-347443a5a9d5">
 
-</p>
+</p>* To ensure IIS is enabled, open the internet browser and enter 127.0.0.1. You should get this page. 
 <p>
-To log in to Microsoft Remote Desktop, add the VM's IP address and navigate to the control panel. Change settings, click on programs, and enable CGI and HTTP common features.
+
 </p>
 <br />
 <img width="1470" alt="Screenshot 2024-09-03 at 8 02 52 PM 2" src="https://github.com/user-attachments/assets/0494c697-8b89-4e2b-be92-cda3c1201be8">
 
 
-To install IIS in Windows, follow these steps:
 
-1. Download and install PHP Manager for IIS, Rewrite Module, and C:\PHP.
-2. Download PHP 7.3.8 and unzip the contents into C:\PHP.
+
+5) Crate a floder in c: and name it PHP.
+
+6) Download PHP 7.3.8 and unzip the contents into C:\PHP. Exact the fold when finished downloading 
+
+
 3. Install VC_redist.x86.exe and MySQL 5.5.62.
 4. Open IIS as an Admin, register PHP from within IIS, and reload the server.
 5. Install osTicket v1.15.8 and reload IIS.
