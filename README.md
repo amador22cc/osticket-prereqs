@@ -99,12 +99,18 @@ Click added, at the top, select a principal, type everyone in the box, check the
 
 </p>14) Download and install HeidiSQL from the Installation Files. 
 
+<img width="1252" alt="Screenshot 2024-09-04 at 7 28 07 PM" src="https://github.com/user-attachments/assets/aa9cc003-b940-4b32-998c-79aed4f7d0e7">
+
 Download and install HeidiSQL from the installation files. Create a new session. Your username will be root, and the password is password1.
+
 <img width="1208" alt="Screenshot 2024-09-04 at 7 35 55 PM" src="https://github.com/user-attachments/assets/e67bceeb-17ca-4722-9da8-b9ed196d6d0a">
 
-10. Install osTicket in the browser.
-</p>
-<br />
-<img 
+create a new database within HeidiSQL. In Heidi right click on the left side where is says "Unnamed", select "create new", and then select "database". Name the new database osTicket. Once we have the new database setup go back to the osTicket browser and under MySQL Database type in osTicket.
+</p> You will want to delete the setup folder in our system. -Delete: C:\inetpub\wwwroot\osTicket\setup Only delete the setup folder and nothing else.
 
-To open OSTicket, return to PHP. On the left-hand side, click the drop-down bar label OSTicket, then open Bowers 80*. Afterwares login with your selected username and password. which will allow you access to an admission page on OSTicket.
+We then will want to set the permissions back to "Read" only in the ost-config.php file.
+
+Login to osticket on the browser
+
+
+
