@@ -77,7 +77,13 @@ reload IIS
 <img width="1470" alt="Screenshot 2024-09-03 at 8 02 52 PM" src="https://github.com/user-attachments/assets/1b9530a6-21a6-4f2b-8c6d-5a45320a4a4f">
 
 </p> some extions will not be enable on OSTicket browser
-7. Refresh the osTicket site and assign permissions.
+<img width="1710" alt="Screenshot 2024-09-04 at 7 21 12 PM" src="https://github.com/user-attachments/assets/c332cfb5-6a05-4071-92ce-7fffc4a3ac3d">
+
+</P>11)Return to IIS sites to PHP manager. Click "Enable or disable an extension." Enable or disable extensions.
+
+You want to enable PHP_imap.dll, PHP_intl.dll, and PHP_opcache.dll.
+
+
 8. Set up osTicket in the browser and name the helpdesk.
 9. Download and install HeidiSQL and create a new session.
 10. Install osTicket in the browser.
