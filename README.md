@@ -56,23 +56,23 @@ World Wide Web Services -> Application Development Features -> [X] CGI [X] Commo
 
 <img width="1252" alt="Screenshot 2024-09-04 at 6 33 21 PM" src="https://github.com/user-attachments/assets/ae27d156-2055-4922-b792-dc5a58b4219d">
 
-7) Open IIS as an Admin,
+</p>7) Open IIS as an Admin,
 <img width="1470" alt="Screenshot 2024-09-03 at 8 02 52 PM 2" src="https://github.com/user-attachments/assets/0494c697-8b89-4e2b-be92-cda3c1201be8">
 
-8)register PHP from within IIS.uthe the PHP folder you crated as the file to load after reload the the sever
+</p>8)register PHP from within IIS.uthe the PHP folder you crated as the file to load after reload the the sever
 
 <img width="1252" alt="Screenshot 2024-09-04 at 7 22 29 PM" src="https://github.com/user-attachments/assets/4da0b8ef-aa2d-4751-8b30-5455f48cbbed">
 
-9) Install VC_redist.x86.exe and MySQL 5.5.62.
+</p>9) Install VC_redist.x86.exe and MySQL 5.5.62.
    
 <img width="1252" alt="Screenshot 2024-09-04 at 6 42 13 PM" src="https://github.com/user-attachments/assets/cb61191c-5e29-4e15-be53-ed16fed646f4">
 
+<img width="1208" alt="Screenshot 2024-09-04 at 6 49 01 PM" src="https://github.com/user-attachments/assets/3eaf6d3f-cfb4-47c5-8f49-76b6276636de">
 
+</p>10)Download php-7.3.8-nts-Win32-VC15-x86.zip once it have has finshed Extract copy the upload folder to c:\inetpub\wwwroot -Within c:\inetpub\root, Rename "upload" to "osTicket" 
+reload IIS
 
-    
-4. Open IIS as an Admin, register PHP from within IIS, and reload the server.
-5. Install osTicket v1.15.8 and reload IIS.
-6. Enable or disable extensions like php_imap.dll, php_intl.dll, and php_opcache.dll.
+</p>11)on IIS go to site click on site and go down to OSTick on the right side the screen look for “Browse *:80” and open it 
 7. Refresh the osTicket site and assign permissions.
 8. Set up osTicket in the browser and name the helpdesk.
 9. Download and install HeidiSQL and create a new session.
