@@ -64,6 +64,9 @@ World Wide Web Services -> Application Development Features -> [X] CGI [X] Commo
 <img width="1252" alt="Screenshot 2024-09-04 at 7 22 29 PM" src="https://github.com/user-attachments/assets/4da0b8ef-aa2d-4751-8b30-5455f48cbbed">
 
 9) Install VC_redist.x86.exe and MySQL 5.5.62.
+   
+<img width="1252" alt="Screenshot 2024-09-04 at 6 42 13 PM" src="https://github.com/user-attachments/assets/cb61191c-5e29-4e15-be53-ed16fed646f4">
+
 
 
     
