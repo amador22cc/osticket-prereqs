@@ -89,7 +89,7 @@ You want to enable PHP_imap.dll, PHP_intl.dll, and PHP_opcache.dll.
 
 <img width="1252" alt="Screenshot 2024-09-04 at 7 05 51 PM" src="https://github.com/user-attachments/assets/b895d171-becf-4c7a-8025-a0f5f31e4b58">
 
-Now that we have renamed the files, right click on the file and go to properties. From there click security, click on advance, and disable the inheritance. We will select Remove all inherited permissions from this object.
+</P>14)Now that we have renamed the files, right click on the file and go to properties. From there click security, click on advance, and disable the inheritance. We will select Remove all inherited permissions from this object.
 
 <img width="1252" alt="Screenshot 2024-09-04 at 7 25 54 PM" src="https://github.com/user-attachments/assets/6b09fe9d-5042-4920-81c6-97aa648ca9b6">
 
@@ -105,12 +105,15 @@ Download and install HeidiSQL from the installation files. Create a new session.
 
 <img width="1208" alt="Screenshot 2024-09-04 at 7 35 55 PM" src="https://github.com/user-attachments/assets/e67bceeb-17ca-4722-9da8-b9ed196d6d0a">
 
-create a new database within HeidiSQL. In Heidi right click on the left side where is says "Unnamed", select "create new", and then select "database". Name the new database osTicket. Once we have the new database setup go back to the osTicket browser and under MySQL Database type in osTicket.
+</p>15)create a new database within HeidiSQL. In Heidi right click on the left side where is says "Unnamed", select "create new", and then select "database". Name the new database osTicket. Once we have the new database setup go back to the osTicket browser and under MySQL Database type in osTicket.
 </p> You will want to delete the setup folder in our system. -Delete: C:\inetpub\wwwroot\osTicket\setup Only delete the setup folder and nothing else.
 
 We then will want to set the permissions back to "Read" only in the ost-config.php file.
 
-Login to osticket on the browser
+</p>16)Login to osticket on the browser
+
+<img width="1252" alt="Screenshot 2024-09-04 at 7 39 40 PM" src="https://github.com/user-attachments/assets/f8ca2440-dc6a-4b8f-9bd0-416ee83e8c56">
+
 
 
 
