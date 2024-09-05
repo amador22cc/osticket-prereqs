@@ -100,6 +100,7 @@ Click added, at the top, select a principal, type everyone in the box, check the
 </p>14) Download and install HeidiSQL from the Installation Files. 
 
 Download and install HeidiSQL from the installation files. Create a new session. Your username will be root, and the password is password1.
+<img width="1208" alt="Screenshot 2024-09-04 at 7 35 55 PM" src="https://github.com/user-attachments/assets/e67bceeb-17ca-4722-9da8-b9ed196d6d0a">
 
 10. Install osTicket in the browser.
 </p>
